@@ -409,7 +409,7 @@ hr {
 
 .images {
   width: inherit;
-  display: grid;
+  display: flex;
   justify-content: center;
 }
 
