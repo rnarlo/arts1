@@ -415,7 +415,7 @@ hr {
 
 .pic {
   width: 600px;
-  max-width: 90vw;
+  max-width: 80vw;
   height: auto;
   border: 0.25px solid rgba(255, 255, 255, 0.5);
   border-radius: 8px;
